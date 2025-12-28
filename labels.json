@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bug",
+    "color": "d73a4a"
+  },
+  {
+    "name": "feat",
+    "color": "a2eeef"
+  },
+  {
+    "name": "infra",
+    "color": "0e8a16"
+  },
+  {
+    "name": "security",
+    "color": "fbca04"
+  },
+  {
+    "name": "breaking",
+    "color": "b60205"
+  },
+  {
+    "name": "update",
+    "color": "7057ff"
+  }
+]

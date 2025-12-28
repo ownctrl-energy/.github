@@ -1,12 +1,16 @@
-## Hi there 👋
+# ownCtrl.energy
 
-<!--
+> Intelligent Solar Energy Management
 
-**Here are some ideas to get you started:**
+We provide an end-to-end solution for monitoring and controlling solar power plants, from Edge Gateways to Cloud SaaS.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌍 Public Overview
+
+### What we do
+- **Edge Connectivity**: Robust telemetry collection from PLCs (Modbus, OPC UA).
+- **Cloud Platform**: Scalable time-series ingestion and battery planning.
+- **SaaS Interface**: Real-time dashboards and control.
+
+### 🤝 Contact
+- **Security**: security@ownctrl.energy
+- **Support**: ops@ownctrl.energy
