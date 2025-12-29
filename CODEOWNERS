@@ -1,4 +1,4 @@
-*       @ownctrl-energy/maintainers
+-     @ownctrl-energy/maintainers
 /docs/* @ownctrl-energy/docs
 /web/*  @ownctrl-energy/frontend
 /cloud/* @ownctrl-energy/backend
