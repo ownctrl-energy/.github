@@ -7,10 +7,12 @@ We provide an end-to-end solution for monitoring and controlling solar power pla
 ## 🌍 Public Overview
 
 ### What we do
+
 - **Edge Connectivity**: Robust telemetry collection from PLCs (Modbus, OPC UA).
 - **Cloud Platform**: Scalable time-series ingestion and battery planning.
 - **SaaS Interface**: Real-time dashboards and control.
 
 ### 🤝 Contact
-- **Security**: security@ownctrl.energy
-- **Support**: support@ownctrl.energy
+
+- **Security**: <security@ownctrl.energy>
+- **Support**: <support@ownctrl.energy>
