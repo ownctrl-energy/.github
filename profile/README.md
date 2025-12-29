@@ -1,4 +1,4 @@
-# ownCtrl.energy
+# ownCTRL™ - Energy
 
 > Intelligent Solar Energy Management
 
@@ -13,4 +13,4 @@ We provide an end-to-end solution for monitoring and controlling solar power pla
 
 ### 🤝 Contact
 - **Security**: security@ownctrl.energy
-- **Support**: ops@ownctrl.energy
+- **Support**: support@ownctrl.energy
